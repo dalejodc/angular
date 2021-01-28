@@ -1,6 +1,6 @@
 # Sintaxis de la plantilla
 
-En Angular, una * plantilla * es un fragmento de HTML.
+En Angular, una *plantilla* es un fragmento de HTML.
 Dentro de una plantilla, puedes usar una sintaxis especial para aprovechar muchas de las características de Angular.
 
 

@@ -42,7 +42,7 @@ Con una sintaxis Angular especial en tus plantillas, puedes ampliar el vocabular
 Por ejemplo, Angular te ayuda a obtener y establecer valores DOM (Document Object Model) dinámicamente con características como funciones de plantilla integradas, variables, escucha de eventos y enlace de datos.
 
 Casi toda la sintaxis HTML es una sintaxis de plantilla válida.
-Sin embargo, debido a que una plantilla angular es parte de una página web general, y no de toda la página, no es necesario incluir elementos como `<html>`, `<body>` o `<base>`.
+Sin embargo, debido a que una plantilla Angular es parte de una página web general, y no de toda la página, no es necesario incluir elementos como `<html>`, `<body>` o `<base>`.
 Puede centrarse exclusivamente en la parte de la página que está desarrollando.
 
 

@@ -43,7 +43,7 @@ Por ejemplo, Angular te ayuda a obtener y establecer valores DOM (Document Objec
 
 Casi toda la sintaxis HTML es una sintaxis de plantilla válida.
 Sin embargo, debido a que una plantilla Angular es parte de una página web general, y no de toda la página, no es necesario incluir elementos como `<html>`, `<body>` o `<base>`.
-Puede centrarse exclusivamente en la parte de la página que está desarrollando.
+Puedes centrarte exclusivamente en la parte de la página que estás desarrollando.
 
 
 <div class="alert is-important">

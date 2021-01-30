@@ -62,7 +62,7 @@ También te puede interesar lo siguiente:
 
 * [Interpolación](guide/interpolation)&mdash;aprende a utilizar la interpolación y las expresiones en HTML.
 * [Declaraciones de plantilla](guide/template-statements)&mdash;responde a eventos en sus plantillas.
-* [Sintaxis de enlace](guide/binding-syntax)&mdash;utilice el enlace para coordinar valores en su aplicación.
+* [Sintaxis de enlace](guide/binding-syntax)&mdash;utiliza el enlace para coordinar valores en su aplicación.
 * [Vinculación de propiedad](guide/property-binding)&mdash;establece las propiedades de los elementos de destino o los decoradores de la directiva `@Input ()`.
 * [Vinculaciones de atributos, clases y estilos](guide/attribute-binding)&mdash;establece el valor de atributos, clases y estilos.
 * [Enlace de eventos](guide/event-binding)&mdash;escucha los eventos y tu HTML.

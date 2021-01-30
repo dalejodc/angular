@@ -25,7 +25,7 @@ Una plantilla HTML Angular muestra una vista, o interfaz de usuario, en el naveg
 
 Cuando generas una aplicación Angular con Angular CLI, el archivo `app.component.html` es la plantilla predeterminada que contiene HTML de marcador de posición.
 
-Las guías de sintaxis de la plantilla te muestran cómo puedes controlar la UX / UI coordinando los datos entre la clase y la plantilla.
+Las guías de sintaxis de la plantilla te muestran cómo puedes controlar la UX/UI coordinando los datos entre la clase y la plantilla.
 
 
 <div class="is-helpful alert">

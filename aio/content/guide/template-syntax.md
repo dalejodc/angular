@@ -69,6 +69,6 @@ También te puede interesar lo siguiente:
 * [Enlace bidireccional](guide/two-way-binding)&mdash;comparte datos entre una clase y su plantilla.
 * [Directivas integradas](guide/built-in-directives)&mdash;escucha y modifica el comportamiento y el diseño del HTML.
 * [Variables de referencia de plantilla](guide/template-reference-variables)&mdash;usa variables especiales para hacer referencia a un elemento DOM dentro de una plantilla.
-* [Entradas y salidas](guide/inputs-outputs)&mdash;compartir datos entre el contexto principal y las directivas o componentes secundarios
+* [Entradas y salidas](guide/inputs-outputs)&mdash;comparte datos entre el contexto principal y las directivas o componentes secundarios
 * [Operadores de expresión de plantilla](guide/template-expression-operators)&mdash;aprenda sobre el operador de tubería, `|`, y protéjase contra valores `nulos` o` indefinidos` en su HTML.
 * [SVG en plantillas](guide/svg-in-templates)&mdash;genera gráficos interactivos de forma dinámica.

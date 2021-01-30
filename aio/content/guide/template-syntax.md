@@ -31,7 +31,7 @@ Las guías de sintaxis de la plantilla te muestran cómo puedes controlar la UX/
 <div class="is-helpful alert">
 
 La mayoría de las guías de sintaxis de plantillas tienen aplicaciones de ejemplo de trabajo dedicadas que demuestran el tema individual de cada guía.
-Para verlos a todos trabajando juntos en una aplicación, consulte al completo<live-example title="Template Syntax Live Code"></live-example>.
+Para verlos a todos trabajando juntos en una aplicación, consulta al completo<live-example title="Template Syntax Live Code"></live-example>.
 
 </div>
 

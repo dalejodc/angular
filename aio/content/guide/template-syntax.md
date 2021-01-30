@@ -38,7 +38,7 @@ Para verlos a todos trabajando juntos en una aplicación, consulta al completo<l
 
 ## Potencia tu HTML
 
-Con una sintaxis angular especial en sus plantillas, puedes ampliar el vocabulario HTML de sus aplicaciones.
+Con una sintaxis Angular especial en tus plantillas, puedes ampliar el vocabulario HTML de tus aplicaciones.
 Por ejemplo, Angular te ayuda a obtener y establecer valores DOM (Document Object Model) dinámicamente con características como funciones de plantilla integradas, variables, escucha de eventos y enlace de datos.
 
 Casi toda la sintaxis HTML es una sintaxis de plantilla válida.

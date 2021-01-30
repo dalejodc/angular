@@ -65,7 +65,7 @@ También te puede interesar lo siguiente:
 * [Sintaxis de enlace](guide/binding-syntax)&mdash;utilice el enlace para coordinar valores en su aplicación.
 * [Vinculación de propiedad](guide/property-binding)&mdash;establece las propiedades de los elementos de destino o los decoradores de la directiva `@Input ()`.
 * [Vinculaciones de atributos, clases y estilos](guide/attribute-binding)&mdash;establece el valor de atributos, clases y estilos.
-* [Enlace de eventos](guide/event-binding)&mdash;escuche los eventos y su HTML.
+* [Enlace de eventos](guide/event-binding)&mdash;escucha los eventos y tu HTML.
 * [Enlace bidireccional](guide/two-way-binding)&mdash;compartir datos entre una clase y su plantilla.
 * [Directivas integradas](guide/built-in-directives)&mdash;escuchar y modificar el comportamiento y el diseño de HTML.
 * [Variables de referencia de plantilla](guide/template-reference-variables)&mdash;usa variables especiales para hacer referencia a un elemento DOM dentro de una plantilla.

@@ -50,7 +50,7 @@ Puedes centrarte exclusivamente en la parte de la página que estás desarrollan
 
 Para eliminar el riesgo de ataques de inyección de scripts, Angular no admite el elemento `<script>` en las plantillas.
 Angular ignora la etiqueta `<script>` y envía una advertencia a la consola del navegador.
-Para obtener más información, consulte la página [Seguridad](guide/security).
+Para obtener más información, consulta la página [Seguridad](guide/security).
 
 </div>
 
